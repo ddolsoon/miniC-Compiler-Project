@@ -1,0 +1,15 @@
+Location : main
+Count Type      Name                Array Role                
+1     int       a                   -     variable            
+2     int       b                   -     variable            
+
+
+Location : main - if(1)
+Count Type      Name                Array Role                
+1     int       c                   -     variable            
+
+
+
+
+
+
