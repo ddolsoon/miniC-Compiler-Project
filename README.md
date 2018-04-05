@@ -4,7 +4,7 @@
 
 ## 형식언어 및 컴파일러 Project (Control Flow Graph & Data Flow Analysis)
 
-mini C++ Compiler # 2
+mini C++ Compiler 
 
 제작자 : 김민성
     
@@ -13,7 +13,7 @@ mini C++ Compiler # 2
 AST의 경우엔,  PA1.pdf에 정의되어있는 mini C++ 문법을 바탕으로 구성되어 있습니다.
 
 입력
-- miniC++ 문법을 바탕으로 작성된 cpp Source COde
+- miniC++ 문법을 바탕으로 작성된 cpp Source Code
 
 출력
 - AST_Restore_code.cpp : 생성된 AST를 바탕으로, 재귀적으로, 복원된 코드
